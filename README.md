@@ -72,6 +72,7 @@ plt.show()
 ![2X](https://user-images.githubusercontent.com/119390329/229567471-0f76a00a-8a1e-4122-b272-1170a106f4e4.png)
 ![EP2](https://user-images.githubusercontent.com/119390329/229567588-51242e96-d80c-46dc-aabd-f30d299c3eca.png)
 ![2(1](https://user-images.githubusercontent.com/119390329/229567626-038980fe-de97-4b39-805e-def215e04b4d.png)
+
 ![EXP  2(9](https://user-images.githubusercontent.com/119390329/230725849-f4b9c2ea-7a2c-448c-b1be-7b4694764d6e.png)
 
 ## Result:
