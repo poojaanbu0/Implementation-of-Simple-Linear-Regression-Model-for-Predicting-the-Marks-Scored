@@ -85,26 +85,31 @@ print("RMSE= ",rmse)
 
 ## Output:
 
-1. df.head()
-![exp2](https://user-images.githubusercontent.com/119390329/229418695-f10be7f8-148e-4162-a889-8225ae9163fe.png)
+## 1. df.head()
+![image](https://github.com/poojaanbu0/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119390329/1ff25cc4-8388-4b37-8c53-b62de237b3cd)
 
-2. df.tail()
+## 2. df.tail()
 ![ex2](https://user-images.githubusercontent.com/119390329/229419045-42572467-3df8-4a9f-a348-5a6b35c582fa.png)
 
-3. Array value of X
+## 3. Array value of X
 ![e2](https://user-images.githubusercontent.com/119390329/229567182-d5c8655b-3689-443b-bd8a-d836e06317ba.png)
 
-4. Array value of Y
+## 4. Array value of Y
 ![X2](https://user-images.githubusercontent.com/119390329/229567328-5320efed-26f7-4794-9e68-6edc6c8a8b33.png)
-6. Values of Y prediction
+
+## 5. Values of Y prediction
 ![2](https://user-images.githubusercontent.com/119390329/229567400-8109a5b5-cd83-4de7-943c-f7bd3d4079b4.png)
-7. Array values of Y test
+
+## 6. Array values of Y test
 ![2X](https://user-images.githubusercontent.com/119390329/229567471-0f76a00a-8a1e-4122-b272-1170a106f4e4.png)
-8. Training Set Graph
+
+## 7. Training Set Graph
 ![EP2](https://user-images.githubusercontent.com/119390329/229567588-51242e96-d80c-46dc-aabd-f30d299c3eca.png)
-9. Test Set Graph
+
+## 8. Test Set Graph
 ![2(1](https://user-images.githubusercontent.com/119390329/229567626-038980fe-de97-4b39-805e-def215e04b4d.png)
-10. Values of MSE, MAE and RMSE
+
+## 9. Values of MSE, MAE and RMSE
 ![EXP  2(9](https://user-images.githubusercontent.com/119390329/230725849-f4b9c2ea-7a2c-448c-b1be-7b4694764d6e.png)
 
 ## Result:
